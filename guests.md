@@ -23,7 +23,7 @@ Press X to Learn is predominantly watched by the TwilioQuest community of early-
 
 # What is TwilioQuest?
 
-[TwilioQuest ](https://twilio.com/quest)is a free educational video game made by Twilio. Twilio aims to help learners in their coding journey through teaching concepts such as JavaScript, Python, Open source, and APIs in an RPG environment. TwilioQuest is an initiative by [Twilio Education](https://twilio.com/education), whose mission is to serve developers through high-impact educational experiences at every stage of their professional journey.
+[TwilioQuest](https://twilio.com/quest) is a free educational video game made by Twilio. Twilio aims to help learners in their coding journey through teaching concepts such as JavaScript, Python, Open source, and APIs in an RPG environment. TwilioQuest is an initiative by [Twilio Education](https://twilio.com/education), whose mission is to serve developers through high-impact educational experiences at every stage of their professional journey.
 
 As creators of a coding-related educational video game, we are always curious about how other games approach the challenges of the genre. We created Press X to Learn to make a space to play and discuss these games, and to connect with others working in this fun creative niche!
 
