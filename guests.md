@@ -113,6 +113,8 @@ Joining Streamyard is just like joining any browser-based video call, like a Goo
 
 - Review [Twitch’s Community Guidelines](https://www.twitch.tv/p/en/legal/community-guidelines/). We are dedicated to ensuring that our channel and its content is a welcoming and safe space for all guests, participants, and viewers. We will be applying these guidelines both to our chat, which will be proactively moderated throughout the show, as well as with our live guests and hosts.
 
+- If you intend to screenshare during the show, be sure any sensitive information is not going to be shared live. It's a good idea (if possible) to move all of this information to a secondary monitor. If not possible, Streamyard does let you share a single application. It's also a good idea to make sure things like your internet Favorites bar and Desktop are clear of anything personal.
+
 
 ## 15 minutes before the show:
 
