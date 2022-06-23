@@ -10,16 +10,16 @@ In this repository you can find the upcoming schedule and [discuss](https://gith
 
 | Date / Time| Topic | Discuss | 
 |---------------|-------|----|
-| July 12th / 4pm UTC, 9am PT | Battlesnake with Gary Hockin | [TBC](https://github.com/TwilioQuest/press-x-to-learn/discussions) |
+| July 12th / 4pm UTC, 9am PT | Battlesnake with Gary Hockin | [TBD](https://github.com/TwilioQuest/press-x-to-learn/discussions) |
 
 ### Past shows
 
 | Date / Time| Topic | Discuss | Recording |
 |---------------|-------|----|----|
 | June 14th / 4pm UTC, 9am PT | Oh My Git! | N/A |  [Twitch](https://www.twitch.tv/videos/1510820516)|
-| May 10th / 4pm UTC, 9am PT | CodeCombat | N/A |  [TBC]()|
+| May 10th / 4pm UTC, 9am PT | CodeCombat | N/A |  [TBD]()|
 | April 12th / 4pm UTC, 9am PT | Interview with Zach of Zachtronics | N/A | [Twitch](https://www.twitch.tv/videos/1454395489)|
 
 ## Guest on Press X to Learn
 
-Do you make an educational or coding related game? We would love to chat to you, or feature your game! You can [suggest a game for the show]() or check out our [guest info](). 
+Do you make an educational or coding related game? We would love to chat to you, or feature your game! You can [suggest a game for the show](https://github.com/TwilioQuest/press-x-to-learn/discussions) or check out our [guest info](https://github.com/TwilioQuest/press-x-to-learn/blob/main/guests.md). 
