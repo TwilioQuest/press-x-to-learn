@@ -13,7 +13,7 @@ Press X to Learn is hosted by:
 - Ryan Kubik: game developer for TwilioQuest
 - Joe Nash: developer educator, student and teacher programs
 
-In the past, we have played games such as Code Combat, Learning Factory, and Shenzhen I/O. We have featured guests like Zachtronics’ creative director, Zach Barth.
+In the past, we have played games such as [Code Combat](https://codecombat.com/), [Learning Factory](https://luden.io/lf/), and [Shenzhen I/O](https://www.zachtronics.com/shenzhen-io/). We have featured guests like [Zachtronics’](https://www.zachtronics.com/) creative director, Zach Barth.
 
 
 ## Who watches Press X to Learn?
