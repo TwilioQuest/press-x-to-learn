@@ -2,7 +2,7 @@
 
 _Press X to Learn_ is a show about educational and coding-adjacent games.  You can watch _Press X to Learn_ live on the [TwilioQuest Twitch](https://twitch.tv/twilioquest), on the second Tuesday of the month, at 4pm UTC/9am PT. 
 
-In this repository you can find the upcoming schedule and [discuss]() or [suggest games for us to play]().
+In this repository you can find the upcoming schedule and [discuss](https://github.com/TwilioQuest/press-x-to-learn/discussions) or [suggest games for us to play](https://github.com/TwilioQuest/press-x-to-learn/discussions/categories/games).
 
 ## Schedule
 
@@ -10,7 +10,7 @@ In this repository you can find the upcoming schedule and [discuss]() or [sugges
 
 | Date / Time| Topic | Discuss | 
 |---------------|-------|----|
-| July 12th / 4pm UTC, 9am PT | Battlesnake with Gary Hockin | [TBC]() |
+| July 12th / 4pm UTC, 9am PT | Battlesnake with Gary Hockin | [TBC](https://github.com/TwilioQuest/press-x-to-learn/discussions) |
 
 ### Past shows
 
