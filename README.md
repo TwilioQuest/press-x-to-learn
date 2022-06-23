@@ -16,9 +16,9 @@ In this repository you can find the upcoming schedule and [discuss]() or [sugges
 
 | Date / Time| Topic | Discuss | Recording |
 |---------------|-------|----|----|
-| June 14th / 4pm UTC, 9am PT | Oh My Git! | N/A | N/A | [Twitch](https://www.twitch.tv/videos/1510820516)|
-| May 10th / 4pm UTC, 9am PT | CodeCombat | N/A | N/A | [TBC]()|
-| April 12th / 4pm UTC, 9am PT | Interview with Zach of Zachtronics | N/A | N/A | [Twitch](https://www.twitch.tv/videos/1454395489)|
+| June 14th / 4pm UTC, 9am PT | Oh My Git! | N/A |  [Twitch](https://www.twitch.tv/videos/1510820516)|
+| May 10th / 4pm UTC, 9am PT | CodeCombat | N/A |  [TBC]()|
+| April 12th / 4pm UTC, 9am PT | Interview with Zach of Zachtronics | N/A | [Twitch](https://www.twitch.tv/videos/1454395489)|
 
 ## Guest on Press X to Learn
 
