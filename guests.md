@@ -33,7 +33,7 @@ As creators of a coding-related educational video game, we are always curious ab
 
 ### In the run up to the show, we will:
 
-- **Fix a date:** Press X to Learn falls on the 2nd Tuesday of the month, [4pm UTC/9am Pacific](https://dateful.com/convert/utc?t=4pm&tz2=PST-PDT-Pacific-Time). We’ll work with you to find a workable date far enough in advance to allow for preparation and promotion.
+- **Fix a date:** Press X to Learn falls on the 2nd Tuesday of the month, 4pm UTC/9am Pacific ([Check your timezone](https://dateful.com/convert/utc?t=4pm&tz2=PST-PDT-Pacific-Time)). We’ll work with you to find a workable date far enough in advance to allow for preparation and promotion.
 
 - **Send a calendar invite:** you’ll receive a calendar invite from the team that includes:
 
