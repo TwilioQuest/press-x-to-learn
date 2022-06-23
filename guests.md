@@ -37,7 +37,7 @@ As creators of a coding-related educational video game, we are always curious ab
 
 - **Send a calendar invite:** you’ll receive a calendar invite from the team that includes:
 
-  - A Streamyard link: this is the link to join the stream. Joining Streamyard is just like joining any online video call, such as Google Meet. 
+  - A [Streamyard](https://streamyard.com/) link: this is the link to join the stream. Joining Streamyard is just like joining any online video call, such as Google Meet. 
   - A notes doc: Ryan and Joe will use this doc to share any questions or specific topics of conversation they want to discuss. Please feel free to add your own, or to comment/cross out any of the topics listed!
   - 15 minutes buffer: the calendar invite will be set to start 15 minutes before the “go live” time. This gives us time to ensure all the audio and video is working correctly, to answer any questions you might have about Streamyard, and to chat about the show.
 
