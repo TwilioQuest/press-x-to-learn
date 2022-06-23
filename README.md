@@ -1,6 +1,6 @@
 # Press X to Learn
 
-_Press X to Learn_ is a show about educational and coding-adjacent games.  You can watch _Press X to Learn_ live on the [TwilioQuest Twitch](https://twitch.tv/twilioquest), on the second Tuesday of the month, at 4pm UTC/9am PT. 
+_Press X to Learn_ is a show about educational and coding-adjacent games.  You can watch _Press X to Learn_ live on the [TwilioQuest Twitch](https://twitch.tv/twilioquest), on the second Tuesday of the month, at 4pm UTC/9am PT ([Check your timezone](https://dateful.com/convert/utc?t=4pm&tz2=PST-PDT-Pacific-Time)). 
 
 In this repository you can find the upcoming schedule and [discuss](https://github.com/TwilioQuest/press-x-to-learn/discussions) or [suggest games for us to play](https://github.com/TwilioQuest/press-x-to-learn/discussions/categories/games).
 
