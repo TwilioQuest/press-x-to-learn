@@ -10,7 +10,7 @@ In this repository you can find the upcoming schedule and [discuss](https://gith
 
 | Date / Time| Topic | Discuss | 
 |---------------|-------|----|
-
+| August 9th / 4pm UTC, 9am PT | TBD | TBD |
 
 ### Past shows
 
