@@ -10,14 +10,15 @@ In this repository you can find the upcoming schedule and [discuss](https://gith
 
 | Date / Time| Topic | Discuss | 
 |---------------|-------|----|
-| July 12th / 4pm UTC, 9am PT | Battlesnake with Gary Hockin | [TBD](https://github.com/TwilioQuest/press-x-to-learn/discussions) |
+
 
 ### Past shows
 
 | Date / Time| Topic | Discuss | Recording |
 |---------------|-------|----|----|
+| July 12th / 4pm UTC, 9am PT | Last Call BBS | N/A | N/A |
 | June 14th / 4pm UTC, 9am PT | Oh My Git! | N/A |  [Twitch](https://www.twitch.tv/videos/1510820516)|
-| May 10th / 4pm UTC, 9am PT | CodeCombat | N/A |  [TBD]()|
+| May 10th / 4pm UTC, 9am PT | CodeCombat | N/A |  N/A |
 | April 12th / 4pm UTC, 9am PT | Interview with Zach of Zachtronics | N/A | [Twitch](https://www.twitch.tv/videos/1454395489)|
 
 ## Guest on Press X to Learn
