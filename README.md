@@ -10,12 +10,13 @@ In this repository you can find the upcoming schedule and [discuss](https://gith
 
 | Date / Time| Topic | Discuss | 
 |---------------|-------|----|
-| August 9th / 4pm UTC, 9am PT | TBD | TBD |
+
 
 ### Past shows
 
 | Date / Time| Topic | Discuss | Recording |
 |---------------|-------|----|----|
+| August 9th / 4pm UTC, 9am PT | Human Resource Machine | N/A | [Twitch](https://www.twitch.tv/videos/1558811224) | 
 | July 12th / 4pm UTC, 9am PT | Last Call BBS | N/A | N/A |
 | June 14th / 4pm UTC, 9am PT | Oh My Git! | N/A |  [Twitch](https://www.twitch.tv/videos/1510820516)|
 | May 10th / 4pm UTC, 9am PT | CodeCombat | N/A |  N/A |
