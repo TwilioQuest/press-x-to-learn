@@ -11,6 +11,8 @@ In this repository you can find the upcoming schedule and [discuss](https://gith
 | Date / Time| Topic | Discuss | 
 |---------------|-------|----|
 | September 13th / 4pm UTC, 9am PT | The Signal State | [Discussion Thread](https://github.com/TwilioQuest/press-x-to-learn/discussions/2) |
+| October 11th / 4pm UTC, 9am PT | Special Guest: PleasingFungus Games | [Discussion Thread](https://github.com/TwilioQuest/press-x-to-learn/discussions/3) |
+| November 8th / 4pm UTC, 9am PT | Special Guest: Minecraft Education Edition | TBC |
 
 ### Past shows
 
