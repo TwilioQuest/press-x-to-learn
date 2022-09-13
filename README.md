@@ -10,14 +10,14 @@ In this repository you can find the upcoming schedule and [discuss](https://gith
 
 | Date / Time| Topic | Discuss | 
 |---------------|-------|----|
-| September 13th / 4pm UTC, 9am PT | The Signal State | [Discussion Thread](https://github.com/TwilioQuest/press-x-to-learn/discussions/2) |
-| October 11th / 4pm UTC, 9am PT | Special Guest: PleasingFungus Games | [Discussion Thread](https://github.com/TwilioQuest/press-x-to-learn/discussions/3) |
+ | October 11th / 4pm UTC, 9am PT | Special Guest: PleasingFungus Games | [Discussion Thread](https://github.com/TwilioQuest/press-x-to-learn/discussions/3) |
 | November 8th / 4pm UTC, 9am PT | Special Guest: Minecraft Education Edition | TBC |
 
 ### Past shows
 
 | Date / Time| Topic | Discuss | Recording |
 |---------------|-------|----|----|
+| September 13th / 4pm UTC, 9am PT | The Signal State | [Discussion Thread](https://github.com/TwilioQuest/press-x-to-learn/discussions/2) | [Twitch](https://www.twitch.tv/videos/1589991459) |
 | August 9th / 4pm UTC, 9am PT | Human Resource Machine | N/A | [Twitch](https://www.twitch.tv/videos/1558811224) | 
 | July 12th / 4pm UTC, 9am PT | Last Call BBS | N/A | N/A |
 | June 14th / 4pm UTC, 9am PT | Oh My Git! | N/A |  [Twitch](https://www.twitch.tv/videos/1510820516)|
